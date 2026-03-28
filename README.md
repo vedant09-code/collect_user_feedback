@@ -1,6 +1,7 @@
-# collect_user_feedback
+# Collect the User Feedback
 
+This is the Demo Project of to Collect the user feedback.
 
-This is the Demo Project of to Collect the user feedback
+With the use of PYTHON .
 
-With the use of PYTHON 
+Tool Used : Visual Studio
